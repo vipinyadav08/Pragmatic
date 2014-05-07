@@ -7,10 +7,6 @@
         ContentSource="/Pages/Welcome.xaml"
         Height="450" Width="625" WindowState="Maximized">
 
-    <!--<mui:ModernWindow.TitleLinks>
-        <mui:Link DisplayName="Settings" Source="/Pages/Settings.xaml" />
-    </mui:ModernWindow.TitleLinks>-->
-
     <mui:ModernWindow.MenuLinkGroups>
         <mui:LinkGroup DisplayName="Welcome">
             <mui:LinkGroup.Links>
